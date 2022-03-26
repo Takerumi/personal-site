@@ -1,1 +1,1 @@
-This is my website implemented most with HTML
+This is my website implemented with HTML only
